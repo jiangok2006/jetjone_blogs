@@ -1,6 +1,9 @@
 HUGO_BIN=hugo
 
-.PHONY: build
+.PHONY: build clean
 
 build:
-	npm install && $(HUGO_BIN)
+	$(HUGO_BIN)
+
+clean:
+	rm -rf public && rm -rf resources && rm -rf node_modules

@@ -3,5 +3,8 @@
         "editor.quickSuggestions": {
             "other": true
         }
-      }
+    },
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }
