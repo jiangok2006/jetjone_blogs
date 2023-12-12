@@ -25,19 +25,19 @@
 # Social Media Configuration
 
 [[social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "#"
+    identifier = "shopify"
+    name = "Shopify"
+    url = "https://mycoolapp.site/"
     weight = 1
 
 [[social]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "#"
+    identifier = "ebay"
+    name = "Ebay"
+    url = "https://www.ebay.com/str/jetjone"
     weight = 2
 
 [[social]]
-    identifier = "github"
-    name = "GitHub"
-    url = "#"
+    identifier = "wed2c"
+    name = "Wed2c"
+    url = "https://jetjone2.wed2c.com/"
     weight = 3
