@@ -5,34 +5,28 @@
     weight = 1
 
 [[main]]
-    identifier = "about"
-    name = "About us"
-    url = "/about"
-    weight = 2
-
-[[main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories"
-    weight = 3
+    weight = 2
 
 [[main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags"
-    weight = 4
+    weight = 3
 
 # Social Media Configuration
 
 [[social]]
     identifier = "shopify"
     name = "Shopify"
-    url = "https://mycoolapp.site/"
+    url = "https://jetjone.myshopify.com/"
     weight = 1
 
 [[social]]
     identifier = "ebay"
-    name = "Ebay"
+    name = "eBay"
     url = "https://www.ebay.com/str/jetjone"
     weight = 2
 
