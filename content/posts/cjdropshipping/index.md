@@ -1,10 +1,10 @@
 ---
 title: "CJdropshpping evaluation"
-draft: false
+draft: true
 date: 2023-12-17T09:16:45.000Z
 description: "What is cjdropshipping? How does it work? What are its pros and cons?"
 categories:
-  - cjdropshipping
+  - e-commerce
 tags:
   - cjdropshipping
   - dropshipping

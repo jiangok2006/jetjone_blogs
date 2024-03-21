@@ -1,37 +1,37 @@
 [[main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
 
 [[main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 2
+identifier = "categories"
+name = "Categories"
+url = "/categories"
+weight = 3
 
 [[main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
-    weight = 3
 
+identifier = "tags"
+name = "Tags"
+url = "/tags"
+weight = 4
 # Social Media Configuration
 
 [[social]]
-    identifier = "shopify"
-    name = "Shopify"
-    url = "https://jetjone.myshopify.com/"
-    weight = 1
+identifier = "twitter"
+name = "Twitter"
+url = "#"
+weight = 1
 
 [[social]]
-    identifier = "ebay"
-    name = "eBay"
-    url = "https://www.ebay.com/str/jetjone"
-    weight = 2
+identifier = "instagram"
+name = "Instagram"
+url = "#"
+weight = 2
 
 [[social]]
-    identifier = "wed2c"
-    name = "Wed2c"
-    url = "https://jetjone2.wed2c.com/"
-    weight = 3
+identifier = "github"
+name = "GitHub"
+url = "#"
+weight = 3
