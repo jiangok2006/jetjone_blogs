@@ -22,7 +22,7 @@ To evaluate CJ, I created below stores:
 * [an eBay store](https://www.ebay.com/str/jetjone) (starter plan)
 * an Amazon store
 * a TikTok store
-The Shopify and wed2c stores are for content (e.g. blog, YouTube, TikTok) and social (e.g. Facebook, Twitter) marketing. The eBay and Amazon stores do not need marketing but need to comply with platform rules and compete with other sellers on the platform. The TikTok store uses TikTok videos for marketing. These store help evaluate how well CJ support the platforms.
+The Shopify and wed2c stores are for content (e.g. blog, YouTube, TikTok) and social (e.g. Facebook, Twitter) marketing. The eBay and Amazon stores do not need marketing but need to comply with platform rules and compete with other sellers on the platform. The TikTok store uses TikTok videos for marketing. These stores help evaluate how well CJ supports the platforms.
 
 
 # Profit margin :thumbsdown:
@@ -76,7 +76,7 @@ On the other hand, their IT support uses CJ ticketing system instead of WhatsApp
 # Supplier accessibility :thumbsdown:
 It is a known issue for sourcing from China for many reasons. I want to know if CJ can help (e.g. provide reviews, suppliers contact for clarifying return policy).
 
-CJ does not provide any supplier info. All communication goes through CJ. This is understandable due to CJ business model. But also because of this, it could be inflexible and hurt my business.
+CJ does not provide any supplier info. All communication goes through CJ. This is understandable due to CJ's business model. But also because of this, it could be inflexible and hurt my business.
 
 I tried to search the suppliers online. For example, many products are provided by `Yiwu Renfan Trading Co., LTD` and `Heyang Industrial Co., Ltd`. I thought it is easy to find their contact online. To my surprise, they either don't show or show multiple results on Google or Baidu (a China search engine). [One result](https://www.ltddir.com/companies/heyang-supply-chain-hk-co-limited/) of Heyang does not show phone or email. This makes me wonder whether these suppliers' identities are hidden for some reason.
 
